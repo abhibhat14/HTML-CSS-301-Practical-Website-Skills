@@ -13,7 +13,7 @@
 @media only screen and (max-width: 900px) {
 	.logo {width: 80%;}
 	.nav-toggle {
-		  display: block;
+		  display: flex;
 		  float: right;
 		  font-size: 30px;
 		  position: relative;
